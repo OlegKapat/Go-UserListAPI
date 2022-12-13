@@ -1,0 +1,9 @@
+port: "8000"
+
+db:
+    username: "OlehDB"
+    host: "localhost"
+    port: "1433"
+    password: "1q2q3q4q"
+    dbname: "User_list"
+    dbtype: "sqlserver"
